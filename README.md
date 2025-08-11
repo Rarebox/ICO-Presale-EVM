@@ -39,8 +39,8 @@ erc20 token, nextjs solidity, web3.js, wagmi, ICO presale DApp, BSC token sale, 
 #### NodeJs & NPM Version
 
 ```
-  NodeJs: v18.17.1 / LATEST
-  NPM: 8.19.2
+  NodeJs: v22.3.0 / LATEST
+  NPM: 10.8.1
   URL: https://nodejs.org/en/download
 ```
 
